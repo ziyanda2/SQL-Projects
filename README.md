@@ -25,7 +25,7 @@ A comprehensive university database system tracking students, lecturers, courses
 - GitHub Version Control
 
 ## 📫 Contact
-- Email: bulelwarantle"gmail.com
+- Email: bulelwarantle@gmail.com
 
 ---
 
